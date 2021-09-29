@@ -35,8 +35,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|ID   | Descrição do Requisito  | Prioridade |
+|-----|-----------------------------------------|----|
 |RF-01|	O site deve apresentar na página principal produtos em destaque (em alta de vendas) e as promoções principais | ALTA | 
 |RF-02| O site deve apresentar um menu simples, intendível e interativo separado por categorias de vestimenta a fim de facilitar a experiência do usuário.	| ALTA |
 |RF-03| O site deve apresentar de forma explícita o local de cadastro do usuário simplificado (via facebook e google ou cadastro padrão)	| MÉDIA |
@@ -52,8 +52,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|ID    | Descrição do Requisito  |Prioridade |
+|------|-------------------------|----|
 |RNF-01|	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |	ALTA |
 |RNF-02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada	| ALTA |
 |RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |	MÉDIA |
