@@ -37,32 +37,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01 |	O site deve apresentar na página principal produtos em destaque (em alta de vendas) e as promoções principais | ALTA | 
-|RF-02	| O site deve apresentar um menu simples, intendível e interativo separado por categorias de vestimenta a fim de facilitar a experiência do usuário.	| ALTA |
-|RF-03	| O site deve apresentar de forma explícita o local de cadastro do usuário simplificado (via facebook e google ou cadastro padrão)	| MÉDIA |
-|RF-04	| O site deve oferecer um menu adicional que permita ao usuário visualizar o carrinho de compras e as compras feitas (sources).	| MÉDIA |
-|RF-05	| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um produto específico que será informado na caixa de pesquisa |	ALTA |
-|RF-06	| O site deve permitir visualizar as informações de contatos do vendedor do produto no site |	MÉDIA |
-|RF-07 |	O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais	| BAIXA |
-|RF-08	| O site deve permitir salvar vestimentas preferidas |	BAIXA |
-|RF-09	| O site deve permitir verificar as vestimentas salvas como preferidas	| BAIXA |
-|RF-10	| O site deve permitir que usuários possam comentar nos produtos dando feedback sobre os mesmos	| BAIXA |
-|RF-11	| O site deve exibir os comentários registrados juntamente com o produto exibido	| BAIXA |
+|RF-01|	O site deve apresentar na página principal produtos em destaque (em alta de vendas) e as promoções principais | ALTA | 
+|RF-02| O site deve apresentar um menu simples, intendível e interativo separado por categorias de vestimenta a fim de facilitar a experiência do usuário.	| ALTA |
+|RF-03| O site deve apresentar de forma explícita o local de cadastro do usuário simplificado (via facebook e google ou cadastro padrão)	| MÉDIA |
+|RF-04| O site deve oferecer um menu adicional que permita ao usuário visualizar o carrinho de compras e as compras feitas (sources).	| MÉDIA |
+|RF-05| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um produto específico que será informado na caixa de pesquisa |	ALTA |
+|RF-06| O site deve permitir visualizar as informações de contatos do vendedor do produto no site |	MÉDIA |
+|RF-07|	O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais	| BAIXA |
+|RF-08| O site deve permitir salvar vestimentas preferidas |	BAIXA |
+|RF-09| O site deve permitir verificar as vestimentas salvas como preferidas	| BAIXA |
+|RF-10| O site deve permitir que usuários possam comentar nos produtos dando feedback sobre os mesmos	| BAIXA |
+|RF-11| O site deve exibir os comentários registrados juntamente com o produto exibido	| BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01 |	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |	ALTA |
-|RNF-02	| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada	| ALTA |
-|RNF-03	| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |	MÉDIA |
-|RNF-04 |	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)	| ALTA |
-|RNF-05	| O site deve permitir que o cadastro de usuário seja feito em até 20 segundos	| ALTA |
-|RNF-06 |	O site deve funcionar 24 horas por dia 7 dias por semana	| ALTA |
-|RNF-07 |	O site deve funcionar normalmente mesmo tendo 10.000 usuários utlizando simultâneamente	| ALTA |
-|RNF-08 |	O site deve ser suportado em todos os navegadores e sistemas operacionais |	ALTA |
-|RNF-09 |	O sistema deve ser capaz de atender 50 requisições por segundoe ignorar requisições acima de 100a para não desgastar o tempo de resposta	| ALTA |
+|RNF-01|	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |	ALTA |
+|RNF-02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada	| ALTA |
+|RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |	MÉDIA |
+|RNF-04|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)	| ALTA |
+|RNF-05| O site deve permitir que o cadastro de usuário seja feito em até 20 segundos	| ALTA |
+|RNF-06|	O site deve funcionar 24 horas por dia 7 dias por semana	| ALTA |
+|RNF-07|	O site deve funcionar normalmente mesmo tendo 10.000 usuários utlizando simultâneamente	| ALTA |
+|RNF-08|	O site deve ser suportado em todos os navegadores e sistemas operacionais |	ALTA |
+|RNF-09|	O sistema deve ser capaz de atender 50 requisições por segundoe ignorar requisições acima de 100a para não desgastar o tempo de resposta	| ALTA |
 
 ## Restrições
 
