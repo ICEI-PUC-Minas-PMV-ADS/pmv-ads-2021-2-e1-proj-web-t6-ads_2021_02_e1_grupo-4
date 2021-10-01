@@ -11,10 +11,16 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 |----------|------------|----------------|
 |Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4 |
 |Documentos do Projeto|Microsoft Teams|  https://teams.microsoft.com/_#/school/files/Grupo%204%20-%20Sexta%20%C3%A0s%2020h45-21h?threadId=19%3A1a3b493b599f4e2dad7743284a893830%40thread.tacv2&ctx=channel&context=Grupo%25204%2520-%2520Sexta%2520%25C3%25A0s%252020h45-21h&rootfolder=%252Fsites%252Fteam_sga_865_2021_2_5954106-Grupo4-Sextas20h45-21h%252FDocumentos%2520Compartilhados%252FGrupo%25204%2520-%2520Sexta%2520%25C3%25A0s%252020h45-21h|
-|Projeto de Interface e Wireframes| | |
-|Gerenciamento do Projeto|Trello| |
+|Projeto de Interface e Wireframes|??????|?????? |
+|Gerenciamento do Projeto|Trello|https://trello.com/grupo4adsprojetoturma622021/tables|
+
+## Gestão do Código Fonte
+
+???????????
 
 ## Controle de Versão
+
+??????
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -46,9 +52,39 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
+●	Scrum Master: Pamela Crivellari Viana
+●	Product Owner: Maristela Beserra Maia
+●	Equipe de Desenvolvimento
+○	Gabriel Henrique Rolim Rocha
+○	Paulo Vitor Pereira Rocha
+○	Rodrigo Mendes de Freitas
+●	Equipe de Design
+○	William Fernando da Silva
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, o qual está estruturado com as seguintes listas: 
+
+●	Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+●	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+●	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+●	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+●	Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+●	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+●	Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/Etr4wmFK/projeto e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+
+![PROJETO TRELLO](https://user-images.githubusercontent.com/89881486/135667740-492f44ed-a048-4679-adea-927cba00a9d8.png)
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+●	Documentação
+●	Desenvolvimento 
+●	Infraestrutura
+●	Testes
+●	Gerência de Projetos.
+
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -56,6 +92,8 @@ Apresente a divisão de papéis entre os membros do grupo.
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
+
+??????????????????
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
@@ -66,6 +104,8 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
+
+?????????????????????????????
 
 As ferramentas empregadas no projeto são:
 
