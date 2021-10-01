@@ -9,8 +9,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 
 | Ambiente | Plataforma | Link de Acesso |
 |----------|------------|----------------|
-|Repositório de código fonte|GitHub| |
-|Documentos do Projeto| Google Drive| |
+|Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4 |
+|Documentos do Projeto|Microsoft Teams|  https://teams.microsoft.com/_#/school/files/Grupo%204%20-%20Sexta%20%C3%A0s%2020h45-21h?threadId=19%3A1a3b493b599f4e2dad7743284a893830%40thread.tacv2&ctx=channel&context=Grupo%25204%2520-%2520Sexta%2520%25C3%25A0s%252020h45-21h&rootfolder=%252Fsites%252Fteam_sga_865_2021_2_5954106-Grupo4-Sextas20h45-21h%252FDocumentos%2520Compartilhados%252FGrupo%25204%2520-%2520Sexta%2520%25C3%25A0s%252020h45-21h|
 |Projeto de Interface e Wireframes| | |
 |Gerenciamento do Projeto|Trello| |
 
