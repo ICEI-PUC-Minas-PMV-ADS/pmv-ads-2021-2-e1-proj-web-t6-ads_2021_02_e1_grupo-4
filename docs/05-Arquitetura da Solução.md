@@ -19,10 +19,10 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
+     - **Canais** - seções onde são apresentadas as peças de vestuário à venda
+     - **Comentários** - registro de opiniões dos usuários sobre as peças
+     - **Preferidas** - lista de peças do mostruário favoritadas pelo usuário
+ - **News API** - plataforma que permite o acesso às fotos e informações das peças postadas.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
