@@ -1,9 +1,18 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 A metodologia contempla as definições de ferramenta utilizadas pela equipe, tanto para a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos é apresentada na tabela que se segue:
+
+| Ambiente | Plataforma | Link de Acesso |
+|----------|------------|----------------|
+|Repositório de código fonte|GitHub| |
+|Documentos do Projeto| Google Drive| |
+|Projeto de Interface e Wireframes| | |
+|Gerenciamento do Projeto|Trello| |
 
 ## Controle de Versão
 
