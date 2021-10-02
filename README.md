@@ -1,12 +1,7 @@
-PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO WEB FRONT-END
+##PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO WEB FRONT-END
 
 
-Tecnologia em Análise e Desenvolvimento de Sistemas
-
-
-
-  Primeiro Semestre
-
+##Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Nos últimos dois anos, em meio a pandemia de COVID-19, o e-commerce cresceu vertiginosamente. Somente em 2020, o crescimento das vendas via comércio eletrônico foi de 49%, e a tendência é só aumentar. Os principais segmentos responsáveis por esta elevação são o de moda, de alimentos e de serviços. Dentro do setor “moda”, o destaque foi a venda de calçados. Existe espaço para a venda on-line de vestuário e acessórios, mas a experiência atual do consumidor cria entraves para isto.
 Comprar roupas e acessórios pela internet ainda gera muitas insatisfações. Grande parte delas estão relacionadas a falta de melhores informações sobre o produto e a impossibilidade de experimentá-las. Além disto, uma vez que a compra foi efetuada, se for necessário trocar, existe muito desgaste e perda de tempo, o que resulta na péssima experiência do cliente e na desistência, por parte dele, em realizar compras futuras via internet. Além disto, pode gerar um marketing negativo para a marca/loja, o que resultaria na perda de novos clientes. De acordo com consumidores entrevistados, a única informação segura que eles possuem em relação ao produto está na opinião de pessoas que deixam sua avaliação em compras realizadas.
