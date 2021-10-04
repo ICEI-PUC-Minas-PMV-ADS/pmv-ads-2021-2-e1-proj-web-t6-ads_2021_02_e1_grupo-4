@@ -7,6 +7,8 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. 
 
+
+
 ![appweb](https://user-images.githubusercontent.com/89049258/135729779-c2f2aed4-f1de-4e10-b85c-3fc7272bf5e1.jpeg)
 
 ## Wireframe
