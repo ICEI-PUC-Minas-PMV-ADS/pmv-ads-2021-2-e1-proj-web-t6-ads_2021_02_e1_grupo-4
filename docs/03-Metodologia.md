@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 |----------|------------|----------------|
 |Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4 |
 |Documentos do Projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4|
-|Projeto de Interface e Wireframes|??????|?????? |
+|Projeto de Interface e Wireframes|Lucidchart|https://lucid.app/lucidchart/326b8fa2-e9d7-42ea-adfc-585f6fb6b25a/edit?invitationId=inv_d7d0946a-ffbc-4a49-8df0-ff495d7a922d&page=2tCfdy-jznDF# |
 |Gerenciamento do Projeto|Trello|https://trello.com/grupo4adsprojetoturma622021/tables|
 
 ## Gestão do Código Fonte
