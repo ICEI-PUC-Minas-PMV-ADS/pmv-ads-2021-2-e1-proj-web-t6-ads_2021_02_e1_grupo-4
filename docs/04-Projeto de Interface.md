@@ -12,14 +12,27 @@ O diagrama apresentado abaixo mostra o fluxo de interação do usuário pelas te
 ## Wireframe
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
-●	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
-●	Conteúdo - apresenta o conteúdo da tela em questão;
-●	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+- Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+- Conteúdo - apresenta o conteúdo da tela em questão;
+- Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
 
 ## Tela - Home-Page
 
-A tela de home-page mostra notícias de destaque a partir da API utilizada pelo sistema. 
+A tela de home-page mostra peças de vestuário de destaque a partir da API utilizada pelo sistema. 
 Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaque (imagem, título, data, fonte e resumo, ícone de compartilhamento). O bloco da Barra Lateral traz três elementos distintos:
-●	Componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
-●	Componente de notícias preferidas que leva o usuário para a tela de Notícias Preferidas;
-●	Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas.
+-	Componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
+-	Componente de peças de vestuário preferidas que leva o usuário para a tela de Peças Preferidas;
+-	Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas.
+
+## Tela - Resultado de Pesquisa
+
+Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de produtos associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.
+
+## Tela - Salvar Roupas Preferidas
+
+A tela que permite o salvamento de roupas preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
+##Tela - Comentários
+
+Na tela que permite ao usuário comentar, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
