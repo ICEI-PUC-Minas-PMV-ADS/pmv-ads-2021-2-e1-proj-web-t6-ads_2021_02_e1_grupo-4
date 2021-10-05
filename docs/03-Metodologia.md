@@ -10,7 +10,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 | Ambiente | Plataforma | Link de Acesso |
 |----------|------------|----------------|
 |Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4 |
-|Documentos do Projeto|GitHub| |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4|
+|Documentos do Projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo-4|
 |Projeto de Interface e Wireframes|??????|?????? |
 |Gerenciamento do Projeto|Trello|https://trello.com/grupo4adsprojetoturma622021/tables|
 
