@@ -44,7 +44,7 @@ O quadro kanban do grupo no Trello está disponível através da URL https://tre
 
 ![PROJETO TRELLO](https://user-images.githubusercontent.com/89881486/135667740-492f44ed-a048-4679-adea-927cba00a9d8.png)
 
-A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+A tarefas serão, ainda, etiquetadas em função da natureza da atividade, segundo o esquema de categorias a seguir:
 - Documentação
 - Desenvolvimento 
 - Infraestrutura
