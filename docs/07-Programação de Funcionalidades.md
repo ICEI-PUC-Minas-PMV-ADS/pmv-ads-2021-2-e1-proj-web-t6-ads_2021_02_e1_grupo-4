@@ -20,6 +20,24 @@ A tela referente ao "Contato" permite ao usuário se cadastrar para iniciar suas
 1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/contato.html 
 2.	A tela de contato será exibida e o usuário poderá inserir suas informações para cadastro.
 
+## Busca
+
+A tela referente à "Busca" permite ao usuário procurar os produtos de acordo com a categoria desejada.
+
+### Requisito Atendido
+- RF-02
+- RF-05
+
+### Artefatos da Funcionalidade
+- busca.html
+
+### Estrutura de Dados
+![image](https://user-images.githubusercontent.com/89881486/138781882-171b1029-0d06-485a-9833-e89299565f43.png)
+
+### Instruções de Acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/busca.html
+2.	Aparecerão as categorias de produtos.
+3.	Ao selecionar uma categoria, uma lista de produtos será aberta.
 
 > **Links Úteis**:
 >
