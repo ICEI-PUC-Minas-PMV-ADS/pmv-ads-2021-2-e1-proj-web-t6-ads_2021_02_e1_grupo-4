@@ -20,6 +20,7 @@ A tela referente ao "Contato" permite ao usuário se cadastrar para iniciar suas
 1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/contato.html 
 2.	A tela de contato será exibida e o usuário poderá inserir suas informações para cadastro.
 
+
 ## Busca
 
 A tela referente à "Busca" permite ao usuário procurar os produtos de acordo com a categoria desejada.
