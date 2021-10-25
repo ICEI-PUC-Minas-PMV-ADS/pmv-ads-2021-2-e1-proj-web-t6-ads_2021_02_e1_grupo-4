@@ -13,9 +13,9 @@ O diagrama apresentado abaixo mostra o fluxo de interação do usuário pelas te
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
 
-## Tela - Cadastro
+## Tela - Contato
 
-A primeira tela do site é a de login. É necessário se cadastrar no site para poder navegá-lo. Pode ser feito via novo cadastro ou através de redes sociais, como o Facebook, ou pelo Google.
+A tela "Contato" do site é a de login. É necessário se cadastrar no site para poder comprar produtos. Pode ser feito via novo cadastro ou através de redes sociais, como o Facebook, ou pelo Google.
 
 ![image](https://user-images.githubusercontent.com/89881486/135947183-bb926a80-9def-4f7a-b2f0-275207feb4e1.png)
 
