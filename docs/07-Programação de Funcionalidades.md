@@ -13,6 +13,12 @@ A tela referente ao "Contato" permite ao usuário se cadastrar para iniciar suas
 - contato.css
 - contato.html
 
+### Estrutura de Dados
+![image](https://user-images.githubusercontent.com/89881486/138779954-04d6ea9a-42c1-40ba-b260-eec9146d578d.png)
+
+### Instruções de Acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/contato.html 
+2.	A tela de contato será exibida e o usuário poderá inserir suas informações para cadastro.
 
 
 > **Links Úteis**:
