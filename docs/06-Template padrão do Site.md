@@ -12,6 +12,27 @@ O template criado está disponível no site https://williamfrd.github.io/newclot
 
 A responsividade segue o padrão do Bootstrap.
 
+## Tela Principal (Home)
+
+Tela que abrange todas as visualizações iniciais do site.
+
+![TEMPLATE](https://user-images.githubusercontent.com/89881486/138776951-e4ebad17-4820-48dc-a604-248162d3e946.jpeg)
+
+## Sobre Nós
+
+Este layout é utilizado para apresentação de nosso negócio.
+
+
+
+## Contato
+
+Neste layout, o usuário pode se cadastrar para iniciar suas compras.
+
+
+## Busca
+
+Local onde são exibidos os produtos, divididos por categorias (feminimo, masculino, infantil).
+
 
 > **Links Úteis**:
 >
