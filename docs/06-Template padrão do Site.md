@@ -4,7 +4,7 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 ![image](https://user-images.githubusercontent.com/89881486/138781014-7f6a7818-95f6-4d86-b4bc-e3acd5795967.png)
 
-O template criado está disponível no site https://williamfrd.github.io/newclothing/index.html .  e é composto pelos seguintes layouts: 
+O template criado está disponível no site https://williamfrd.github.io/newclothing/index.html , e é composto pelos seguintes layouts: 
 -	Tela principal (Home)
 -	Sobre Nós
 -	Contato
