@@ -2,7 +2,7 @@
 
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura X.
 
-![home page](https://user-images.githubusercontent.com/89881486/138774358-009192bc-e286-4de0-969c-b299962931d7.PNG)
+
 
 O template criado está disponível no site https://williamfrd.github.io/newclothing/index.html .  e é composto pelos seguintes layouts: 
 -	Tela principal (Home)
