@@ -2,7 +2,8 @@
 
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura X.
 
-
+![image](https://user-images.githubusercontent.com/89881486/138781014-7f6a7818-95f6-4d86-b4bc-e3acd5795967.png)
+FIGURA X
 
 O template criado está disponível no site https://williamfrd.github.io/newclothing/index.html .  e é composto pelos seguintes layouts: 
 -	Tela principal (Home)
@@ -22,17 +23,19 @@ Tela que abrange todas as visualizações iniciais do site.
 
 Este layout é utilizado para apresentação de nosso negócio.
 
-
+![SOBRE NOS](https://user-images.githubusercontent.com/89881486/138781074-8cf9ef96-d60a-4f98-9f05-35ddc2d63b00.jpeg)
 
 ## Contato
 
 Neste layout, o usuário pode se cadastrar para iniciar suas compras.
 
+![CONTATO](https://user-images.githubusercontent.com/89881486/138781122-372d4bfe-4d44-4aea-8119-dbfeed278d49.jpeg)
 
 ## Busca
 
 Local onde são exibidos os produtos, divididos por categorias (feminimo, masculino, infantil).
 
+![BUSCA](https://user-images.githubusercontent.com/89881486/138781170-2e1dcba9-487e-4b5b-804c-670713eb2004.jpeg)
 
 > **Links Úteis**:
 >
