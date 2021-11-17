@@ -2,12 +2,23 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
+
 ## Home
 
 A tela referente ao "Home" permite ao usuário visualizar as peças de vestuário, divididas nas seguintes categorias: geral, produtos em destaque e promoções. Nela, também, estão presentes os links de acesso para as funcionalidades "Contato" e "Busca". Por fim, dá acesso, também, às informações principais da empresa em questão.
 
 ### Requisitos Atendidos
 
+- RF-01
+- RF-02
+
+### Artefatos de Funcionalidade
+
+### Estrutura de dados
+
+### Instruções de Acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/
+2.	A tela "Home" será exibida e o usuário poderá navegar pelas categorias de vestuário apresentadas na página principal.
 
 
 ## Contato
