@@ -43,11 +43,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-04| O site deve oferecer um menu adicional que permita ao usuário visualizar o carrinho de compras e as compras feitas (sources).	| MÉDIA |
 |RF-05| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um produto específico que será informado na caixa de pesquisa |	ALTA |
 |RF-06| O site deve permitir visualizar as informações de contatos do vendedor do produto no site |	MÉDIA |
-|RF-07|	O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais	| BAIXA |
-|RF-08| O site deve permitir salvar vestimentas preferidas |	BAIXA |
-|RF-09| O site deve permitir verificar as vestimentas salvas como preferidas	| BAIXA |
-|RF-10| O site deve permitir que usuários possam comentar nos produtos dando feedback sobre os mesmos	| BAIXA |
-|RF-11| O site deve exibir os comentários registrados juntamente com o produto exibido	| BAIXA |
+|RF-07| O site deve permitir salvar vestimentas preferidas |	BAIXA |
+|RF-08| O site deve permitir verificar as vestimentas salvas como preferidas	| BAIXA |
+|RF-09| O site deve permitir que usuários possam comentar nos produtos dando feedback sobre os mesmos	| BAIXA |
+|RF-10| O site deve exibir os comentários registrados juntamente com o produto exibido	| BAIXA |
 
 
 ### Requisitos não Funcionais
