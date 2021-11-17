@@ -4,7 +4,11 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 ## Home
 
-A tela referente ao "Home" permite ao usuário visualizar as peças de vestuário, divididas nas seguintes categorias: geral, promoções, 
+A tela referente ao "Home" permite ao usuário visualizar as peças de vestuário, divididas nas seguintes categorias: geral, produtos em destaque e promoções. Nela, também, estão presentes os links de acesso para as funcionalidades "Contato" e "Busca". Por fim, dá acesso, também, às informações principais da empresa em questão.
+
+### Requisitos Atendidos
+
+
 
 ## Contato
 
