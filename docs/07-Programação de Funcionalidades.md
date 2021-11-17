@@ -2,6 +2,10 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
+## Home
+
+A tela referente ao "Home" permite ao usuário visualizar as peças de vestuário, divididas nas seguintes categorias: geral, promoções, 
+
 ## Contato
 
 A tela referente ao "Contato" permite ao usuário se cadastrar para iniciar suas compras no site.
