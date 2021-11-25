@@ -5,7 +5,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 ## Home
 
-A tela referente ao "Home" permite ao usuário visualizar as peças de vestuário, divididas nas seguintes categorias: geral, produtos em destaque e promoções. Nela, também, estão presentes os links de acesso para as funcionalidades "Contato" e "Busca". Por fim, dá acesso, também, às informações principais da empresa em questão.
+A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Size", utilizando texto e um vídeo educativo.  
 
 ### Requisitos Atendidos
 
@@ -14,50 +14,79 @@ A tela referente ao "Home" permite ao usuário visualizar as peças de vestuári
 
 ### Artefatos de Funcionalidade
 
+- index.html
+- style.css
+- style-home.css
+- videosize.mp4
+
 ### Estrutura de dados
 
+
+
 ### Instruções de Acesso
+
 1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/
-2.	A tela "Home" será exibida e o usuário poderá navegar pelas categorias de vestuário apresentadas na página principal.
+2.	A tela "Home" será exibida e o usuário poderá navegar pelas informações apresentadas.
 
 
-## Contato
+## Login
 
-A tela referente ao "Contato" permite ao usuário se cadastrar para iniciar suas compras no site.
+A tela referente ao "Login" permite ao usuário se cadastrar para iniciar suas compras no site.
 
 ### Requisito Atendido
+
 - RF-03
 
 ### Artefatos da Funcionalidade
-- contato.css
-- contato.html
+
+- login.html
+- login.css
 
 ### Estrutura de Dados
+
 ![image](https://user-images.githubusercontent.com/89881486/138779954-04d6ea9a-42c1-40ba-b260-eec9146d578d.png)
 
 ### Instruções de Acesso
+
 1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/contato.html 
 2.	A tela de contato será exibida e o usuário poderá inserir suas informações para cadastro.
 
 
-## Busca
+## Sobre nós
 
-A tela referente à "Busca" permite ao usuário procurar os produtos de acordo com a categoria desejada.
+A tela referente à "Sobre Nós" explora o propósito do serviço.
 
 ### Requisito Atendido
 - RF-02
 - RF-05
 
 ### Artefatos da Funcionalidade
-- busca.html
+- sobre.html
+- sobre.css
 
 ### Estrutura de Dados
-![image](https://user-images.githubusercontent.com/89881486/138781882-171b1029-0d06-485a-9833-e89299565f43.png)
+
 
 ### Instruções de Acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/busca.html
-2.	Aparecerão as categorias de produtos.
-3.	Ao selecionar uma categoria, uma lista de produtos será aberta.
+2.	Aparecerão o texto referente à seção "Sobre Nós".
+
+## Download do app
+
+A tela referente ao "Download do app" faz referência à sequência do serviço que será prestado, com a utilização de um aplicativo, o qual será produzido em próximos passos do projeto.
+
+### Requisito Atendido
+- 
+
+### Artefatos da Funcionalidade
+- 
+
+### Estrutura de Dados
+
+
+### Instruções de Acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/busca.html
+...
 
 > **Links Úteis**:
 >
