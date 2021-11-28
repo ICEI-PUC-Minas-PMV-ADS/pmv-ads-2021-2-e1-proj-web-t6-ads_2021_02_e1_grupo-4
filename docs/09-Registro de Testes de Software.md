@@ -90,8 +90,18 @@ A página está sendo exibida de forma configurada e permitindo a realização d
 
 CT-03 Sobre Nós
 
+Objetivo do teste
+
+A página "Sobre Nós" pode ser acessada corretamente
+
 
 RF-02 O site deve apresentar um menu simples, intendível e interativo.
+
+Passos
+
+1) Acesse o navegador.
+2) Informar o endereço do site.
+3) Visualizar a página Sobre Nós.
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143783454-dd54a80c-b180-4e5b-834e-8ce5d0f952af.png)
@@ -105,18 +115,15 @@ RF-05 O site deve permitir visualizar as informações de contatos do vendedor d
 ![image](https://user-images.githubusercontent.com/91230711/143783511-897ed67e-8fab-4c0b-a536-b5ff7754e027.png)
 
 
-Objetivo do teste
-
-A página "Sobre Nós" está sendo exibida de forma configurada
-
-Passos
-
-1) Acesse o navegador.
-2) Informar o endereço do site.
-3) Visualizar a página Sobre Nós.
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143783615-58f70729-b676-4099-acb3-6d0ca3ca4f28.png)
+
+Critérios de êxito
+
+A página está sendo exibida de forma configurada
+
+A página 
 
 CT-04 Download do app
 
