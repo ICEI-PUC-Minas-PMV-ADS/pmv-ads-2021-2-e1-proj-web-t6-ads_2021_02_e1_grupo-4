@@ -27,8 +27,8 @@ A equipe utiliza metodologia ágil, tendo escolhido o Scrum como base para defin
 A equipe está organizada da seguinte maneira:
 - Scrum Master: Pamela Crivellari Viana
 - Product Owner: Maristela Beserra Maia
-- Equipe de Desenvolvimento: Gabriel Henrique Rolim Rocha, Paulo Vitor Pereira Rocha, Rodrigo Mendes de Freitas
-- Equipe de Design: William Fernando da Silva
+- Equipe de Desenvolvimento: William Fernando da Silva, Gabriel Henrique Rolim Rocha, Paulo Vitor Pereira Rocha 
+- Equipe de Design: Rodrigo Mendes de Freitas
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, o qual está estruturado com as seguintes listas: 
 
