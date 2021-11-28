@@ -160,7 +160,14 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
+Com todos os testes e observações do funcionamento exercitado no site, foi possível identificar que o mesmo possui aspectos de funcionalidade e aplicabilidade em aparelho móveis como notebook e tablet adaptando a vários tipos de tela.
+
+O site possui uma plataforma com menus onde o usuário possui facilidade no acesso, permitindo assim, a navegabilidade nas páginas entre o site sem a produção de erro.
+
+Em smartphone ele não é exibido de forma configurada, portanto é preciso adaptar para que fique acessível e legível para o usuário.
+
+Em conclusão, vamos trabalhar para adaptar a funcionabilidade do mesmo em todas as variedades de dispositivos para assim atender a todos os usuários.
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
