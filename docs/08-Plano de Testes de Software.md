@@ -29,7 +29,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |Critérios de êxito|- A página deve aparecer de forma configurada.|
 
 |Caso de Teste|CT-04 Download do app|
-|-------------|--------------------|
+|-------------|-------------------------------------------------------------------------------------------------------------------------|
 |Requisitos associados|RF-04 O site deve oferecer um redirecionamento que permita ao usuário ter acesso aos produtos dos parceiros. <br>
 RF-05 O site deve permitir visualizar as informações de contatos do vendedor do produto. <br>
 RF-06 O site deve permitir salvar vestimentas preferidas.<br>
