@@ -21,9 +21,6 @@ A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Si
 
 ### Estrutura de dados
 
-<!DOCTYPE html>
-<html lang="pt-br">
-
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
