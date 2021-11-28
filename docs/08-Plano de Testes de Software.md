@@ -35,7 +35,7 @@ RF-05 O site deve permitir visualizar as informações de contatos do vendedor d
 RF-06 O site deve permitir salvar vestimentas preferidas.<br>
 RF-07 O site deve permitir verificar as vestimentas salvas como preferidas. <br>
 RF-08 O site deve permitir que usuários possam comentar nos produtos dando feedback sobre os mesmos. <br>
-RF-09 O site deve exibir os comentários registrados juntamente com o produto exibido. <br>|
+RF-09 O site deve exibir os comentários registrados juntamente com o produto exibido.|
 |Objetivo do teste|Verificar se a carga da página "Sobre Nós" está acontecendo corretamente.|
 |Passos|1) Acessar o navegador. <br> 2) Informar o endereço do site. <br> 3) Visualizar a página Download do App.|
 |Critérios de êxito|- A página deve aparecer de forma configurada.|
