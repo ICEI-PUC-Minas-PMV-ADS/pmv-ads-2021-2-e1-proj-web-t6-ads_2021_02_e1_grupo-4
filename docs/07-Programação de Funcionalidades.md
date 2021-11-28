@@ -25,7 +25,7 @@ A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Si
 
 ### Instruções de Acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/
+1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/index.html
 2.	A tela "Home" será exibida e o usuário poderá navegar pelas informações apresentadas.
 
 
@@ -48,7 +48,7 @@ A tela referente ao "Login" permite ao usuário se cadastrar para iniciar suas c
 
 ### Instruções de Acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/contato.html 
+1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/login.html
 2.	A tela de contato será exibida e o usuário poderá inserir suas informações para cadastro.
 
 
@@ -68,7 +68,7 @@ A tela referente à "Sobre Nós" explora o propósito do serviço.
 
 
 ### Instruções de Acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/busca.html
+1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/sobre.html
 2.	Aparecerão o texto referente à seção "Sobre Nós".
 
 ## Download do app
@@ -85,13 +85,5 @@ A tela referente ao "Download do app" faz referência à sequência do serviço 
 
 
 ### Instruções de Acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://williamfrd.github.io/newclothing/busca.html
-...
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/downloadapp.html
+2.	Aparecerá um texto informando que o aplicativo está em desenvolvimento.
