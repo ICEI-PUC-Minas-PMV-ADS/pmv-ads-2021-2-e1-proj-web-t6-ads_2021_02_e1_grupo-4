@@ -74,7 +74,12 @@ A tela referente à "Sobre Nós" explora o propósito do serviço.
 A tela referente ao "Download do app" faz referência à sequência do serviço que será prestado, com a utilização de um aplicativo, o qual será produzido em próximos passos do projeto.
 
 ### Requisito Atendido
-- 
+- RF-04
+- RF-05
+- RF-06
+- RF-07
+- RF-08
+- RF-09
 
 ### Artefatos da Funcionalidade
 - downloadapp.html
