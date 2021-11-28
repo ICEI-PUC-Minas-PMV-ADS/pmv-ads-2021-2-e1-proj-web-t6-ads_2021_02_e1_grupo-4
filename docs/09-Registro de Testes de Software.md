@@ -41,7 +41,9 @@ Caso de Teste	Login CT-02
 Requisitos associados	RF-03 O site deve apresentar de forma explícita o cadastro local do usuário simplificado (via facebook e google ou cadastro padrão).
 
 
-![image](https://user-images.githubusercontent.com/91230711/143783155-c168bfb2-efb0-465c-8a5c-30b568dc78d8.png)
+![image](https://user-images.githubusercontent.com/91230711/143784076-29be289e-5411-4cca-a294-bd6755e86f33.png)
+
+
 
 
 
@@ -51,6 +53,13 @@ Critérios de êxito	- A página deve aparecer de forma configurada.
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143783292-31402394-71fd-4e70-9f61-bc4fc561bbc3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/91230711/143784054-2f6113bb-838a-437f-844a-5f64dee31bf9.png)
+
+
+
 
 CT-03 Sobre Nós
 
