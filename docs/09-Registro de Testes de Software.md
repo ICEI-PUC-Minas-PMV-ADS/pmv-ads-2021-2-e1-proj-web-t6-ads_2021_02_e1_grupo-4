@@ -68,6 +68,18 @@ RF-05 O site deve permitir visualizar as informações de contatos do vendedor d
 ![image](https://user-images.githubusercontent.com/91230711/143783511-897ed67e-8fab-4c0b-a536-b5ff7754e027.png)
 
 
+Objetivo do teste	Verificar se a carga da página "Sobre Nós" está acontecendo corretamente.
+
+
+![image](https://user-images.githubusercontent.com/91230711/143783615-58f70729-b676-4099-acb3-6d0ca3ca4f28.png)
+
+CT-04 Download do app
+
+![image](https://user-images.githubusercontent.com/91230711/143783682-06ac229a-3375-4f44-820b-445b0bc2e0ee.png)
+
+
+
+
 
 
 
