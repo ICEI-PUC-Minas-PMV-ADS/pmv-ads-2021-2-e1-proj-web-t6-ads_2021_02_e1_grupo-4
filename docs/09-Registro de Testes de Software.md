@@ -14,7 +14,12 @@ CT-01 Página inicial
 
 
 
-Objetivo do Teste	Verificar se a carga da página inicial está acontecendo corretamente.
+Objetivo do Teste
+
+
+Verificado e executado corretamente sem erro.
+
+
 Passos	
 
 1) Acesse o navegador.
@@ -26,10 +31,17 @@ https://rodrigomendesdev13.github.io/size/index.html
 
 
 
+
 3) Visualizar a página principal.
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143783094-0ffc80af-beca-426e-9dbf-27fed65a2d43.png)
+
+
+Critérios de êxito
+
+
+A página foi exibida de forma configurada com textos e instruções em vídeo
 
 
 
@@ -37,18 +49,27 @@ https://rodrigomendesdev13.github.io/size/index.html
 
 Caso de Teste	Login CT-02
 
+Objetivo do teste
 
-Requisitos associados	RF-03 O site deve apresentar de forma explícita o cadastro local do usuário simplificado (via facebook e google ou cadastro padrão).
+A página de login está sendo exibida de forma correta sem apresentação de erro para realização do cadastro
+
+
+Passos
+
+1) Acesse o navegador.
+
+
+2) Informar o endereço do site.
+
+
+3) Visualizar uma página de login.
+
+
+Requisitos associados	RF-03 O site deve apresentar de forma explícita o cadastro local do usuário simplificado (via facebook e twitter ou cadastro padrão).
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143784076-29be289e-5411-4cca-a294-bd6755e86f33.png)
 
-
-
-
-
-Critérios de êxito	- A página deve aparecer de forma configurada.
-- A página deve permitir realizar o cadastro do usuário.
 
 
 
@@ -59,9 +80,16 @@ Critérios de êxito	- A página deve aparecer de forma configurada.
 ![image](https://user-images.githubusercontent.com/91230711/143784054-2f6113bb-838a-437f-844a-5f64dee31bf9.png)
 
 
+Critérios de êxito
+
+
+A página está sendo exibida de forma configurada e permitindo a realização do cadastro de usuário
+
+
 
 
 CT-03 Sobre Nós
+
 
 RF-02 O site deve apresentar um menu simples, intendível e interativo.
 
@@ -77,7 +105,15 @@ RF-05 O site deve permitir visualizar as informações de contatos do vendedor d
 ![image](https://user-images.githubusercontent.com/91230711/143783511-897ed67e-8fab-4c0b-a536-b5ff7754e027.png)
 
 
-Objetivo do teste	Verificar se a carga da página "Sobre Nós" está acontecendo corretamente.
+Objetivo do teste
+
+A página "Sobre Nós" está sendo exibida de forma configurada
+
+Passos
+
+1) Acesse o navegador.
+2) Informar o endereço do site.
+3) Visualizar a página Sobre Nós.
 
 
 ![image](https://user-images.githubusercontent.com/91230711/143783615-58f70729-b676-4099-acb3-6d0ca3ca4f28.png)
