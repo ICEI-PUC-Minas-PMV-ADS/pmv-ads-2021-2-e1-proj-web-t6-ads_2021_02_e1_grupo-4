@@ -2,7 +2,6 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
-
 ## Home
 
 A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Size", utilizando texto e um vídeo educativo.  
@@ -67,7 +66,7 @@ A tela referente à "Sobre Nós" explora o propósito do serviço.
 
 ### Instruções de Acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/sobre.html
-2.	Aparecerão o texto referente à seção "Sobre Nós".
+2.	Aparecerá o texto referente à seção "Sobre Nós".
 
 ## Download do app
 
