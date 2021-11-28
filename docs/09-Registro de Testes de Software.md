@@ -117,7 +117,7 @@ RF-05 O site deve permitir visualizar as informações de contatos do vendedor d
 
 
 
-![image](https://user-images.githubusercontent.com/91230711/143783615-58f70729-b676-4099-acb3-6d0ca3ca4f28.png)
+
 
 Critérios de êxito
 
@@ -127,7 +127,28 @@ A página
 
 CT-04 Download do app
 
+Objetivo do teste
+
+A página está sendo exibida corretamente
+
+Passos
+
+1) Acesse o navegador.
+
+
+2) Informar o endereço do site.
+
+
+3) Visualizar uma página Download do aplicativo.
+
+
+
 ![image](https://user-images.githubusercontent.com/91230711/143783682-06ac229a-3375-4f44-820b-445b0bc2e0ee.png)
+
+Critérios de êxito
+
+
+A página encontra-se com informação de desenvolvimento do aplicativo
 
 
 
