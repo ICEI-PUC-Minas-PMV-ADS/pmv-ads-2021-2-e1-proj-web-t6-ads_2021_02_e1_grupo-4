@@ -20,7 +20,7 @@ A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Si
 
 ### Estrutura de dados
 
-
+![image](https://user-images.githubusercontent.com/89881486/143778708-82fdd6d7-6699-4cd3-b52a-b324a965841f.png)
 
 ### Instruções de Acesso
 
@@ -42,6 +42,7 @@ A tela referente ao "Login" permite ao usuário se cadastrar para iniciar suas c
 
 ### Estrutura de Dados
 
+![image](https://user-images.githubusercontent.com/89881486/143778805-f9bb161a-1417-4a3e-ac45-01bae7d3d863.png)
 
 
 ### Instruções de Acesso
@@ -63,6 +64,7 @@ A tela referente à "Sobre Nós" explora o propósito do serviço.
 
 ### Estrutura de Dados
 
+![image](https://user-images.githubusercontent.com/89881486/143778844-20634b4a-57a1-4f47-b11e-38ac895dfdb2.png)
 
 ### Instruções de Acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/sobre.html
@@ -85,6 +87,7 @@ A tela referente ao "Download do app" faz referência à sequência do serviço 
 
 ### Estrutura de Dados
 
+![image](https://user-images.githubusercontent.com/89881486/143778912-61602e88-508d-4a0b-9a12-43fa8bbd61fe.png)
 
 ### Instruções de Acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://rodrigomendesdev13.github.io/size/downloadapp.html
