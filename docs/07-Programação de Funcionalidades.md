@@ -29,7 +29,7 @@ A tela referente ao "Home" explica ao usuário como utilizar os serviços da "Si
 
 ## Login
 
-A tela referente ao "Login" permite ao usuário se cadastrar para iniciar suas compras no site.
+A tela referente ao "Login" permite ao usuário se cadastrar para iniciar suas compras (através do uso do aplicativo).
 
 ### Requisito Atendido
 
