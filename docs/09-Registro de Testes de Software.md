@@ -36,6 +36,8 @@ https://rodrigomendesdev13.github.io/size/index.html
 
 
 Caso de Teste	Login CT-02
+
+
 Requisitos associados	RF-03 O site deve apresentar de forma explícita o cadastro local do usuário simplificado (via facebook e google ou cadastro padrão).
 
 
@@ -50,7 +52,20 @@ Critérios de êxito	- A página deve aparecer de forma configurada.
 
 ![image](https://user-images.githubusercontent.com/91230711/143783292-31402394-71fd-4e70-9f61-bc4fc561bbc3.png)
 
+CT-03 Sobre Nós
 
+RF-02 O site deve apresentar um menu simples, intendível e interativo.
+
+
+![image](https://user-images.githubusercontent.com/91230711/143783454-dd54a80c-b180-4e5b-834e-8ce5d0f952af.png)
+
+
+
+RF-05 O site deve permitir visualizar as informações de contatos do vendedor do produto.
+
+
+
+![image](https://user-images.githubusercontent.com/91230711/143783511-897ed67e-8fab-4c0b-a536-b5ff7754e027.png)
 
 
 
