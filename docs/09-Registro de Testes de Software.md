@@ -4,29 +4,43 @@
 
 
 
-|Requisitos associados|
+CT-01 Página inicial
 
-![image](https://user-images.githubusercontent.com/91230711/143781634-1c3d78c3-8148-4a39-af66-32e45bd918ad.png)
-
-
+![image](https://user-images.githubusercontent.com/91230711/143782753-0b0ff72e-a5d4-48b1-b8c2-2245efce921c.png)
 
 
-![image](https://user-images.githubusercontent.com/91230711/143781679-afaa0f43-f7e9-4559-bdaf-3884d8d20b97.png)
+
+
+
+
 
 Objetivo do Teste	Verificar se a carga da página inicial está acontecendo corretamente.
-Passos	1) Acesse o navegador.
+Passos	
+
+1) Acesse o navegador.
+
+
 2) Informar o endereço do site.
+
+https://rodrigomendesdev13.github.io/size/index.html
+
+
+
 3) Visualizar a página principal.
 
 
-https://rodrigomendesdev13.github.io/size/index.html
+![image](https://user-images.githubusercontent.com/91230711/143783094-0ffc80af-beca-426e-9dbf-27fed65a2d43.png)
+
+
+
 
 
 Caso de Teste	Login CT-02
 Requisitos associados	RF-03 O site deve apresentar de forma explícita o cadastro local do usuário simplificado (via facebook e google ou cadastro padrão).
 
 
-![image](https://user-images.githubusercontent.com/91230711/143781976-36d896cf-9864-41d8-8d0c-c2b8e7a614cb.png)
+![image](https://user-images.githubusercontent.com/91230711/143783155-c168bfb2-efb0-465c-8a5c-30b568dc78d8.png)
+
 
 
 Critérios de êxito	- A página deve aparecer de forma configurada.
@@ -34,7 +48,8 @@ Critérios de êxito	- A página deve aparecer de forma configurada.
 
 
 
-![image](https://user-images.githubusercontent.com/91230711/143782044-8019b7d5-eab3-4e50-978b-ce764bc2dd41.png)
+![image](https://user-images.githubusercontent.com/91230711/143783292-31402394-71fd-4e70-9f61-bc4fc561bbc3.png)
+
 
 
 
