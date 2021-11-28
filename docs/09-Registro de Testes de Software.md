@@ -167,7 +167,7 @@ O site possui uma plataforma com menus onde o usuário possui facilidade no aces
 
 Em smartphone ele não é exibido de forma configurada, portanto é preciso adaptar para que fique acessível e legível para o usuário.
 
-Em conclusão, vamos trabalhar para adaptar a funcionabilidade do mesmo em todas as variedades de dispositivos para assim atender a todos os usuários.
+Em conclusão, vamos trabalhar para adaptar a funcionabilidade do mesmo em todas as variedades de dispositivos, para assim, atender a todos os usuários.
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
