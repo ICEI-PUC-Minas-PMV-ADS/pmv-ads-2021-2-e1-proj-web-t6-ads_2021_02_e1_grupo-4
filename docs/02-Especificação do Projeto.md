@@ -48,14 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  |Prioridade |
 |------|-------------------------|----|
 |RNF-01|	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |	ALTA |
-|RNF-02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada	| ALTA |
+|RNF-02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada	| BAIXA |
 |RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |	MÉDIA |
 |RNF-04|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)	| ALTA |
 |RNF-05| O site deve permitir que o cadastro de usuário seja feito em até 20 segundos	| ALTA |
-|RNF-06|	O site deve funcionar 24 horas por dia 7 dias por semana	| ALTA |
+|RNF-06|	O site deve funcionar 24 horas por dia e 7 dias por semana	| ALTA |
 |RNF-07|	O site deve funcionar normalmente mesmo tendo 10.000 usuários utlizando simultâneamente	| ALTA |
 |RNF-08|	O site deve ser suportado em todos os navegadores e sistemas operacionais |	ALTA |
-|RNF-09|	O sistema deve ser capaz de atender 50 requisições por segundoe ignorar requisições acima de 100a para não desgastar o tempo de resposta	| ALTA |
+|RNF-09|	O sistema deve ser capaz de atender 50 requisições por segundo e ignorar requisições acima de 100 para não desgastar o tempo de resposta	| ALTA |
 
 ## Restrições
 
