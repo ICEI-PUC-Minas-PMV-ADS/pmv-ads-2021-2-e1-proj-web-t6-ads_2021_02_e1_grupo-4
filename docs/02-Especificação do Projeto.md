@@ -2,32 +2,27 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Para alcançar os objetivos propostos, foram realizadas pesquisas com consumidores aleatórios para a estrutura do projeto, nessa pesquisa a coleta de dados foi baseada em cinco perguntas, que por sua vez foram o suficiente para conseguirmos elucidar os objetivos propostos pelo projeto.
+Para alcançar os objetivos propostos, fizemos perguntas a pessoas (escolhidas de forma aleatória) que correspondem às características citadas no tópico "público-alvo" do projeto. Nessa pesquisa, a coleta de dados foi baseada em cinco questões, suficientes para atingir os objetivos propostos pelo projeto.
 
 ## Personas
 
-Felipe Colorado tem 29 anos, tem formação em design de moda, é digital influencer e fã de tecnologias e de produtos inovadores. Possui um grande canal de moda no Youtube, no qual apresenta dicas de moda e indicações de compras para seus inscritos. Tem como hobbies ir na academia e jogar video game e poker. Costuma utilizar os aplicativos Instagram e Youtube. Como é um grande consumidor de produtos online, principalmente de vestuários, tem uma enorme frustação quanto a quantidade de produtos comprados com o tamanho errado.
-
-Luana Martins tem 26 anos, é proprietária de uma  loja digital e é criadora de conteúdo. Sua principal ferramenta de trabalho é o Instagram. Tem como hobbies malhar na academia e fazer dança. Costuma utilizar o aplicativo Instagram. Luana tem um grande problema quanto a compra errada no tamanho das peças(por parte dos clientes), gerando a insatisfação do cliente, que não volta a comprar e, também, o prejuízo financeiro perante os fretes.
-
+Felipe Colorado tem 29 anos, formação em design de moda, é digital influencer e fã de tecnologias e de produtos inovadores. Possui um grande canal de moda no Youtube, no qual apresenta dicas de moda e indicações de compras para seus inscritos. Tem como hobbies ir na academia e jogar video game e poker. Costuma utilizar os aplicativos Instagram e Youtube. Como é um grande consumidor de produtos online, principalmente de vestuários, tem uma enorme frustação quanto a quantidade de produtos comprados com o tamanho errado. <br>
+Luana Martins tem 26 anos, é proprietária de uma  loja digital e é criadora de conteúdo. Sua principal ferramenta de trabalho é o Instagram. Tem como hobbies malhar na academia e fazer dança. Costuma utilizar o aplicativo Instagram. Luana tem um grande problema quanto a compra errada no tamanho das peças (por parte dos clientes), gerando a insatisfação do cliente, que não volta a comprar e, também, o prejuízo financeiro perante os fretes. <br>
 Patricia Zamboni tem 34 anos e é engenheira civil de uma grande empresa. Tem como hobbies ler livros e ir a bares com os amigos. Costuma utilizar os aplicativos Instagram, LinkedIn, Facebook e Twitter. Ela costuma fazer compras online. Grande parte do que compra é via Amazon, como o tapete higiênico de seus cachorros, os livros que lê e utensílios para casa. De vez em quando, compra calçados e acessórios, mas nunca teve coragem de comprar roupas, pois já escutou muita opinião negativa a respeito, vindo de sua irmã e de alguns amigos.
-
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`  |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------ |----------------------------------------|
-|Felipe Colorado     | Experimentar roupas de forma virtual| Para ter certeza de que escolhi a peça certa para mim.|
+|Felipe Colorado     | "Experimentar" roupas de forma virtual| Para ter certeza de que escolhi a peça certa para mim.|
 |Felipe Colorado     | Comprar roupas de forma online      | Porque nem sempre encontro o que desejo nas lojas físicas.|
 |Felipe Colorado     | Comprar roupas de forma virtual     | Para me manter sempre em dia com a moda, o que é importante para o meu canal.|
 |Luana Martins       | Proporcionar o “provador virtual” aos meus clientes| Porque desejo aumentar o faturamento do meu negócio.|
-|Luana Martins       |	Poder experimentar roupa de forma virtual	| Para abastecer minha loja de acordo com o gosto dos meus clientes.|
-|Felipe Colorado     |	Poder experimentar roupa de forma virtual	| Porque quero mostrar a peça para os meus seguidores, via Youtube, mesmo se eu não quiser adquiri-la.|
-|Patrícia Zamboni    |	Poder experimentar roupa de forma virtual	| Para ser mais assertiva na minha escolha.|
-|Patrícia Zamboni    |	Poder experimentar roupa de forma virtual	| Porque nem sempre me sinto à vontade na loja física.|
-
+|Luana Martins       |	Poder "experimentar" roupa de forma virtual	| Para abastecer minha loja de acordo com o gosto dos meus clientes.|
+|Patrícia Zamboni    |	Poder "experimentar" roupa de forma virtual	| Para ser mais assertiva na minha escolha.|
+|Patrícia Zamboni    |	Poder "experimentar" roupa de forma virtual	| Porque nem sempre me sinto à vontade na loja física.|
 
 ## Requisitos
 
