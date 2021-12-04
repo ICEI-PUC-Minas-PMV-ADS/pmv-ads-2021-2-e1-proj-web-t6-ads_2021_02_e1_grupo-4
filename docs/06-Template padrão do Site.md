@@ -16,29 +16,24 @@ A responsividade segue o padrão do Bootstrap.
 
 Tela que abrange todas as visualizações iniciais do site.
 
-![TEMPLATE](https://user-images.githubusercontent.com/89881486/138776951-e4ebad17-4820-48dc-a604-248162d3e946.jpeg)
+![TELA HOME](https://user-images.githubusercontent.com/89881486/144715381-57c9e7d7-ccf0-4fec-9591-b56917403964.png)
 
 ## Sobre Nós
 
 Este layout é utilizado para apresentação de nosso negócio.
 
-![SOBRE NOS](https://user-images.githubusercontent.com/89881486/138781074-8cf9ef96-d60a-4f98-9f05-35ddc2d63b00.jpeg)
+![TELA SOBRE NOS](https://user-images.githubusercontent.com/89881486/144715427-81a9ca57-dbe7-471b-b0ad-dc9761921072.png)
 
-## Contato
+## Login
 
-Neste layout, o usuário pode se cadastrar para iniciar suas compras.
+Neste layout, o usuário pode se cadastrar para ter acesso ao serviço.
 
-![CONTATO](https://user-images.githubusercontent.com/89881486/138781122-372d4bfe-4d44-4aea-8119-dbfeed278d49.jpeg)
+![TELA LOGIN](https://user-images.githubusercontent.com/89881486/144715463-5518b1b5-1237-40a1-a96a-e90e2c1bd5ac.png)
 
-## Busca
+## Download do app
 
-Local onde são exibidos os produtos, divididos por categorias (feminimo, masculino, infantil).
+Quando o aplicativo estiver pronto, ele poderá ser baixado através desta tela.
 
-![BUSCA](https://user-images.githubusercontent.com/89881486/138781170-2e1dcba9-487e-4b5b-804c-670713eb2004.jpeg)
+![TELA DOWNLOAD APP](https://user-images.githubusercontent.com/89881486/144715518-70573d67-c85f-42f9-a343-301e8ac7f723.png)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
