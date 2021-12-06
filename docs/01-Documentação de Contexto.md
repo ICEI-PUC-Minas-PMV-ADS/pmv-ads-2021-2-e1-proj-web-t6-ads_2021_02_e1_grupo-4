@@ -11,7 +11,7 @@ Conforme exposto, o que procuramos com esse projeto é minimizar a chance de err
 
 OBJETIVO GERAL
 Atrair maior número de consumidores para compras de vestuário e acessórios via online, através da melhoria da experiência do cliente.
-OBJETIVOS ESPECÍFICOS <br>
+<br> OBJETIVOS ESPECÍFICOS <br>
 -	Verificar quais itens podem ser melhorados, integrando assim, funcionalidades que melhorem a experiência do consumidor frente as falhas que aconteceram.
 -	Com a integração da inovação, fazer com que o consumidor volte a comprar onde ocorreu a experiência negativa.
 -	Diminuir o índice de reclamação e aumentar o de satisfação.
